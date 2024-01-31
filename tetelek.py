@@ -5,7 +5,8 @@ def osztok(szam):
         if szam % oszto ==0:
             lista.append(oszto)
         return lista
-print(osztok(36))        
+print(osztok(36))
+      
             
 
 
